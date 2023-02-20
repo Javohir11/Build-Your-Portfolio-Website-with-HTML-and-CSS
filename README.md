@@ -1,2 +1,1 @@
-# Jonikulov.github.io
-Personal Website
+# Jonikulov.GitHub.io
