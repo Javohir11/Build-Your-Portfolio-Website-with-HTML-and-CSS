@@ -1,3 +1,3 @@
 # Rock Paper Scissors - Image Model with Teachable Machine
-### Link -> https://jonikulov.github.io/projects/tm-rps/
+### Link -> https://teachablemachine.withgoogle.com/models/MGAEX5Cyy
 <img src="./images/RPS-ImageModel-TeachableMachine.png">
